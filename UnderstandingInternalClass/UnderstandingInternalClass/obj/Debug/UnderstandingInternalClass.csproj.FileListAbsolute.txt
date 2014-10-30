@@ -1,0 +1,6 @@
+c:\users\zahid\documents\visual studio 2012\Projects\UnderstandingInternalClass\UnderstandingInternalClass\bin\Debug\UnderstandingInternalClass.exe.config
+c:\users\zahid\documents\visual studio 2012\Projects\UnderstandingInternalClass\UnderstandingInternalClass\bin\Debug\UnderstandingInternalClass.exe
+c:\users\zahid\documents\visual studio 2012\Projects\UnderstandingInternalClass\UnderstandingInternalClass\bin\Debug\UnderstandingInternalClass.pdb
+c:\users\zahid\documents\visual studio 2012\Projects\UnderstandingInternalClass\UnderstandingInternalClass\obj\Debug\UnderstandingInternalClass.csprojResolveAssemblyReference.cache
+c:\users\zahid\documents\visual studio 2012\Projects\UnderstandingInternalClass\UnderstandingInternalClass\obj\Debug\UnderstandingInternalClass.exe
+c:\users\zahid\documents\visual studio 2012\Projects\UnderstandingInternalClass\UnderstandingInternalClass\obj\Debug\UnderstandingInternalClass.pdb
